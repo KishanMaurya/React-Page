@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ##################
 
 ## check this link 
-https://react-page.netlify.app/sign-up
+https://react-page.netlify.app/
 
 
 
